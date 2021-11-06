@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rg-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-06T11:59:01.210229568Z"
+    description: A Helm chart for Kubernetes
+    digest: 4124c09aaa223f9d49a962bb078bb1584edd9fafccb94d6a919304d42b417c88
+    name: rg-nginx
+    type: application
+    urls:
+    - https://rajeshgheware.github.io/helm-charts/rg-nginx/rg-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-06T11:59:01.207620511Z"
